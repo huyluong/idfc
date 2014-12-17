@@ -3,4 +3,4 @@ idfc
 
 huyluong/idfc
 
-Hello world
+I love :coffee:, :pizza:, and :dancer:. 
